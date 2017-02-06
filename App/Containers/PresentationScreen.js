@@ -38,7 +38,6 @@ export default class PresentationScreen extends React.Component {
             Drop Litter
           </RoundedButton> */}
 
-
         </ScrollView>
       </View>
     )
